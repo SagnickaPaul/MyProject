@@ -8,4 +8,4 @@
 =======
 #Project to understand git
 >>>>>>> parent of 93a3edd... Update readme.txt.txt
-i knw ths is changing
+i knw thid jciujdmoi;c
